@@ -33,7 +33,7 @@ This project includes some simple test cases.
 
 ## Build
 For production build
-- Run `yarn build` `npm run build`
+- Run `yarn build` or `npm run build`
 
 ## Manual UI test
 - Click on "Refresh data" button to load new data from API, it will be disabled and changed to "Refreshing..." to indicate loading. 
