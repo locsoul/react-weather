@@ -7,7 +7,7 @@ See the app in action: https://weather-lt-cbc.azurewebsites.net or scan below QR
 ![Preview QR](https://github.com/locsoul/react-weather/raw/master/screenshots/qr.png)
 
 ## Main Libraries
-This project uses `create-react-app` boiler plate with thw follwing main libraries:
+This project uses `create-react-app` boiler plate with the follwing main libraries:
 - ReactJS
 - Redux
 - Bootstrap CSS
@@ -24,7 +24,7 @@ It is assumed that the following software and packages are installed on developm
 - Run `yarn install` or `npm install`
 
 ## Start the app (development mode)
-- Run `yarn start` or `npm start`
+- From console, run `yarn start` or `npm start`
 - The script will open system default browser or visit http://localhost:3000/ in any browser to see the app UI.
 
 ## Test
