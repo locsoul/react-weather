@@ -4,7 +4,7 @@ by Loc Tran
 
 See the app in action: https://weather-lt-cbc.azurewebsites.net or scan below QR
 
-![Preview QR](https://github.com/locsoul/weatherapp/raw/master/screenshots/qr.png)
+![Preview QR](https://github.com/locsoul/react-weather/raw/master/screenshots/qr.png)
 
 ## Main Libraries
 This project uses `create-react-app` boiler plate with thw follwing main libraries:
