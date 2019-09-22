@@ -41,3 +41,10 @@ For production build
 
 ## Responsive UI
 This app is optimized for devices of different screen sizes. Resize your browser window to see changes in UI. Or access the preview link on your mobile device.
+
+## Location access flow
+1. The app shows a message to ask for permission access.
+2. If granted, the app automatically fetches weather data.
+3. If not (denied or timeout), the app shows 2 buttons:
+    - Get data of previously detected location (only shown if previously detected)
+    - Get data of Toronto city
